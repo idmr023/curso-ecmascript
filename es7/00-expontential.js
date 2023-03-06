@@ -1,0 +1,1 @@
+const data = 4 ** 3; //Potencia
